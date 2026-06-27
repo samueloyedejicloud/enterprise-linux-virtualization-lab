@@ -34,3 +34,28 @@ The objectives of this project were to:
 - Troubleshoot installation issues.
 - Prepare a Linux environment for future cloud projects.
 
+---
+
+## Solution Architecture
+
+The virtual environment created in this project consists of a Windows host operating system running Oracle VirtualBox as the virtualization platform. Oracle VirtualBox provides the resources required to host an Ubuntu Linux virtual machine, creating an isolated environment for learning Linux administration and cloud infrastructure concepts.
+
+```text
++------------------------------------------------+
+|            Physical Laptop (Host)              |
+|------------------------------------------------|
+| Windows 11 Operating System                    |
+|                                                |
+|  +------------------------------------------+  |
+|  | Oracle VirtualBox (Type 2 Hypervisor)    |  |
+|  |                                          |  |
+|  |  +------------------------------------+  |  |
+|  |  | Ubuntu Desktop Virtual Machine     |  |  |
+|  |  |                                    |  |  |
+|  |  | • 6 GB RAM                         |  |  |
+|  |  | • 4 vCPUs                          |  |  |
+|  |  | • 50 GB Virtual Disk               |  |  |
+|  |  +------------------------------------+  |  |
+|  +------------------------------------------+  |
++------------------------------------------------+
+```
