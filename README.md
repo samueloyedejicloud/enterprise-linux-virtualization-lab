@@ -108,7 +108,7 @@ Mounted the Ubuntu Desktop ISO as the bootable installation media before startin
 
 **Screenshot**
 
-![Download attach the ubuntu iso](screenshots/04-attach-ubuntu-iso.png)
+![Download attach the ubuntu iso](screenshots/06-attach-ubuntu-iso.png)
 
 ---
 
@@ -118,7 +118,7 @@ Booted the virtual machine from the Ubuntu ISO and completed the operating syste
 
 **Screenshot**
 
-*Insert Screenshot 05 here*
+![install virtualbox with iso](screenshots/07-install-virtualbox.png)
 
 ---
 
@@ -128,4 +128,4 @@ Successfully booted into Ubuntu Desktop after installation and verified that the
 
 **Screenshot**
 
-*Insert Screenshot 06 here*
+![ubuntu desktop first login](screenshots/11-ubuntu-desktop.png)
