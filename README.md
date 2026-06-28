@@ -71,7 +71,7 @@ Downloaded and installed Oracle VirtualBox on the Windows host machine to provid
 
 **Screenshot**
 
-*Insert Screenshot 01 here*
+![Download VirtualBox](screenshots/01-download-virtualbox.png)
 
 ---
 
@@ -81,7 +81,7 @@ Downloaded the Ubuntu Desktop ISO image from the official Ubuntu website. The IS
 
 **Screenshot**
 
-![Download VirtualBox](screenshots/01-download-virtualbox.png)
+
 
 ---
 
