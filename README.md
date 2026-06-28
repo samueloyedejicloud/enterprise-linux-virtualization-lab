@@ -108,7 +108,7 @@ Mounted the Ubuntu Desktop ISO as the bootable installation media before startin
 
 **Screenshot**
 
-![Download attach the ubuntu iso](screenshots/03-attach-ubuntu-iso.png)
+![Download attach the ubuntu iso](screenshots/04-attach-ubuntu-iso.png)
 
 ---
 
