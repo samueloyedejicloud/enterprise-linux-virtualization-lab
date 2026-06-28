@@ -118,7 +118,7 @@ Booted the virtual machine from the Ubuntu ISO and completed the operating syste
 
 **Screenshot**
 
-![install virtualbox with iso](screenshots/07- install-virtualbox.png)
+![install virtualbox with iso](screenshots/07-install-virtualbox.png)
 
 ---
 
