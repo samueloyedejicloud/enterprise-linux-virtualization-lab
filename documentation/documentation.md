@@ -35,3 +35,32 @@ To resolve the issue, I:
 
 The operating system booted successfully, confirming that the issue was related to the virtual machine configuration rather than the host hardware or allocated resources.
 
+
+---
+
+# Lessons Learned
+
+This project strengthened my understanding of several core infrastructure concepts:
+
+- Virtualization using a Type 2 Hypervisor.
+- Creating and configuring virtual machines.
+- Allocating compute resources (CPU, memory, and storage).
+- Booting an operating system using an ISO image.
+- Understanding the relationship between host and guest operating systems.
+- Identifying and resolving deployment issues through structured troubleshooting.
+- Documenting technical work using GitHub and Markdown.
+
+Most importantly, this project reinforced the value of patience, systematic troubleshooting, and validating each configuration step before assuming a hardware or software failure.
+
+
+---
+
+# Engineer's Reflection
+
+This project represents the beginning of my cloud engineering journey.
+
+Although the objective was to deploy an Ubuntu virtual machine, the experience became much more than a software installation exercise. Encountering an unexpected boot issue challenged me to slow down, investigate the problem, and approach troubleshooting methodically instead of making assumptions.
+
+Completing this project gave me a deeper appreciation for the importance of virtualization as the foundation of modern cloud platforms such as Microsoft Azure and Amazon Web Services. It also reinforced that successful engineers are not defined by avoiding problems, but by how they investigate, resolve, and learn from them.
+
+As I continue building my cloud engineering portfolio, I will use this project as the foundation for future work involving Linux administration, networking, cloud infrastructure, identity management, and automation.
