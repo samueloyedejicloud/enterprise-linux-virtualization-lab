@@ -71,7 +71,7 @@ Downloaded and installed Oracle VirtualBox on the Windows host machine to provid
 
 **Screenshot**
 
-![Download VirtualBox](screenshots/01-download-virtualbox.png)
+
 
 ---
 
