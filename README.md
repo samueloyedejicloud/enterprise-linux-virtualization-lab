@@ -59,3 +59,73 @@ The virtual environment created in this project consists of a Windows host opera
 |  +------------------------------------------+  |
 +------------------------------------------------+
 ```
+---
+
+# Deployment Process
+
+The following steps document the complete deployment of the Ubuntu Linux virtual machine using Oracle VirtualBox.
+
+## Step 1 – Download Oracle VirtualBox
+
+Downloaded and installed Oracle VirtualBox on the Windows host machine to provide a virtualization platform capable of running multiple operating systems.
+
+**Screenshot**
+
+*Insert Screenshot 01 here*
+
+---
+
+## Step 2 – Download Ubuntu Desktop ISO
+
+Downloaded the Ubuntu Desktop ISO image from the official Ubuntu website. The ISO file serves as the bootable installation media for the virtual machine.
+
+**Screenshot**
+
+*Insert Screenshot 02 here*
+
+---
+
+## Step 3 – Create a New Virtual Machine
+
+Created a new Ubuntu virtual machine within Oracle VirtualBox.
+
+Configured the following resources:
+
+- Operating System: Ubuntu (64-bit)
+- Memory Allocation: 4 GB RAM
+- Processor Allocation: 4 vCPUs
+- Virtual Hard Disk: 40 GB
+
+**Screenshot**
+
+*Insert Screenshot 03 here*
+
+---
+
+## Step 4 – Attach the Ubuntu ISO
+
+Mounted the Ubuntu Desktop ISO as the bootable installation media before starting the virtual machine.
+
+**Screenshot**
+
+*Insert Screenshot 04 here*
+
+---
+
+## Step 5 – Install Ubuntu Desktop
+
+Booted the virtual machine from the Ubuntu ISO and completed the operating system installation by selecting language, keyboard layout, installation type, timezone, and creating a local administrator account.
+
+**Screenshot**
+
+*Insert Screenshot 05 here*
+
+---
+
+## Step 6 – First Successful Login
+
+Successfully booted into Ubuntu Desktop after installation and verified that the operating system was functioning correctly.
+
+**Screenshot**
+
+*Insert Screenshot 06 here*
