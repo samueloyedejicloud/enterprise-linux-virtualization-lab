@@ -98,7 +98,7 @@ Configured the following resources:
 
 **Screenshot**
 
-*Insert Screenshot 03 here*
+![Download oracle virtual machiche](screenshots/03-create-virtual-machine.png)
 
 ---
 
@@ -108,7 +108,7 @@ Mounted the Ubuntu Desktop ISO as the bootable installation media before startin
 
 **Screenshot**
 
-*Insert Screenshot 04 here*
+![Download attach the ubuntu iso](screenshots/03-attach-ubuntu-iso.png)
 
 ---
 
