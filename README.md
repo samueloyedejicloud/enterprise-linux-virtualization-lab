@@ -92,9 +92,9 @@ Created a new Ubuntu virtual machine within Oracle VirtualBox.
 Configured the following resources:
 
 - Operating System: Ubuntu (64-bit)
-- Memory Allocation: 4 GB RAM
+- Memory Allocation: 6 GB RAM
 - Processor Allocation: 4 vCPUs
-- Virtual Hard Disk: 40 GB
+- Virtual Hard Disk: 50 GB
 
 **Screenshot**
 
