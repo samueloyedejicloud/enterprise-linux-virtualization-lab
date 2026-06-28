@@ -15,9 +15,9 @@ To identify the cause, I reviewed the virtual machine configuration, compared my
 
 The compute resources assigned to the virtual machine were sufficient:
 
-- 4 GB RAM
+- 6 GB RAM
 - 4 vCPUs
-- 40 GB Virtual Disk
+- 50 GB Virtual Disk
 
 After reviewing the configuration, I determined that the Ubuntu ISO had not been properly configured as the initial boot media during the first deployment attempt.
 
