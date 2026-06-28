@@ -81,7 +81,7 @@ Downloaded the Ubuntu Desktop ISO image from the official Ubuntu website. The IS
 
 **Screenshot**
 
-*Insert Screenshot 02 here*
+![Download VirtualBox](screenshots/01-download-virtualbox.png)
 
 ---
 
