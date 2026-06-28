@@ -112,6 +112,7 @@ Mounted the Ubuntu Desktop ISO as the bootable installation media before startin
 
 ---
 
+
 ## Step 5 – Install Ubuntu Desktop
 
 Booted the virtual machine from the Ubuntu ISO and completed the operating system installation by selecting language, keyboard layout, installation type, timezone, and creating a local administrator account.
@@ -122,10 +123,22 @@ Booted the virtual machine from the Ubuntu ISO and completed the operating syste
 
 ---
 
-## Step 6 – First Successful Login
+
+## Step 6 - Deployment Process
+
+immediately after attaching the ISO ubuntu file, i encounter so problem which made me restart this step again and then follow the the easy click to install the ubuntu
+
+**Screenshot**
+
+![Download deployment process](screenshots/08-create-user-account.png)
+
+
+## Step 7 – First Successful Login
 
 Successfully booted into Ubuntu Desktop after installation and verified that the operating system was functioning correctly.
 
 **Screenshot**
 
 ![ubuntu desktop first login](screenshots/11-ubuntu-desktop.png)
+
+##
